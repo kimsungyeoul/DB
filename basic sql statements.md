@@ -1,3 +1,9 @@
+# 📌 Create Schema
+```sql
+CREATE SCHEMA `sqltests` ;
+
+```
+
 # 📌 Create
 ```sql
 CREATE TABLE student (
